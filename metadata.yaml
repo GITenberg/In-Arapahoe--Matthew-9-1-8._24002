@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24002#In-Arapahoe--Matthew-9-1-8.
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
